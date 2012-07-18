@@ -1,0 +1,5 @@
+=head1 README
+
+The latest stable release(s) are available from http://code.google.com/p/shodan/downloads
+
+Please refer to the https://github.com/cmlh/shodan/wiki for further information.
